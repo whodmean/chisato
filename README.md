@@ -1,5 +1,5 @@
 # chisato
-to create a student management system /crab
+to create a student management system /backslash
 每位学生任选一种高级程序设计语言，独立完成一个学生信息管理系统，要求如下：
 1.	学生信息包括：学号、姓名、年龄、性别、出生年月、家庭住址、电话、E-mail。
 2.	系统以菜单方式工作。
